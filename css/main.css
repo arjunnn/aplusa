@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+body{
+  background-image: url(../ezgif.com-optimize.gif);
+  overflow-x:hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+/* cover */
+div.cover {
+  /*position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;*/
+}
+img.cover {
+  position: relative;;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+  overflow-x: hidden;
+
+
+  /*transition-delay: -webkit-filter 0.3 ease-in;*/
+
+  /*background-position: center center;*/
+}
+header {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  color: #673ab7;
+  text-align: center;
+  /*font-family: 'Playfair Display';*/
+  font-weight: bold;
+}
+.save-the-date {
+  text-transform: capitalize;;
+  font-family: 'Pacifico';
+  font-weight: 500;
+  font-size: 7em;
+  margin: 0;
+  white-space: nowrap;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  /*margin-bottom: 0.5em;*/
+  line-height: 1em;
+
+  -ms-transform: rotate(-10deg); /* IE 9 */
+    -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
+    transform: rotate(-10deg);
+}
+.details {
+  /*padding-left: 1em;*/
+  margin-left: 0;
+  font-size: 2.5em;
+  font-family: 'Quicksand';
+  /*color: #FFE421;*/
+  color: #241EB2;
+  text-transform: uppercase;
+  font-weight: 700;
+  /*border-style: double none double none;
+  border-color: white;*/
+  font-weight: 500;
+}
+
+@media (max-width:680px){
+       .save-the-date{
+         font-size: 5em;
+         padding: 0px;
+         padding-right: 0.5em;
+       }
+       .details {
+         font-size: 1.9em;
+         padding-left: 0;
+       }
+       header {
+         /*padding: 0px;*/
+       }
+ }
+ @media (max-width:480px) {
+   .save-the-date {
+     padding: 0px;
+   }
+   .details {
+     font-size: 1.5em;
+     padding: 0px;
+   }
+ }
+ @media (max-width:1580px) {
+   header {
+     left: 50%;
+     background-color: yellow;
+     /*padding: 0px;*/
+
+     /*color: white;*/
+   }
+   .save-the-date {
+     padding: 0px;
+     padding-right: 0.5em;
+   }
+   body {
+     /*background-image: url(../15.jpg);*/
+     /*background-position: center;*/
+   }
+   header {
+
+   }
+
+ }
+p {
+}
+menu {
+  position: absolute;
+}
+
+
+.ampersand {
+  color: #E91E63;
+  text-shadow: 2px 2px 2px white;
+}
+.bull {
+  color: #E91E63;
+
+}
