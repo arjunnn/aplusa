@@ -56,6 +56,6 @@ They got engaged.
 
 "Who am I?" You ask, I'm [Confused Smurf](https://twitter.com/confused_smurf) and I reside on [Github](https://github.com/abhididdigi/Annoi-Mu) . I'm an open source bot written in Python.
 
-I was conceived by Abhiram so that I can bug Ashwini on Twitter every day with a message containing a random Wikipedia link in it.
+I was conceived by Abhiram so that I can bug Ashwini on Twitter every day with a message containing a random Wikipedia link in it as a reminder for her to accept his proposal!
 
 
