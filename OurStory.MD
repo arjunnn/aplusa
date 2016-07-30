@@ -13,10 +13,10 @@ When she got home, she quickly freshened up and texted him to ask if he was read
 
 *9:00 AM :*
 
-He was calling from his downtown studio apartment in Denver, his Macbook Air on the kitchen counter he looked fresh, prepared and excited about the whole thing.
-
 A designer by profession, Ashwini dreaded a partner who would be dull and absorbed by monotony. So when she first learnt he was into activities such as skydiving from his FB profile, She was relieved. "He could be anything but boring", she told herself.
 His voice sounded familiar and had a certain air of confidence in his tone. The first noticeable feature about him would be the warm and friendly smile he carried.
+
+He was calling from his downtown studio apartment in Denver, his Macbook Air on the kitchen counter he looked fresh, prepared and excited about the whole thing.
 
 "And there she is. A dream too good to be true." He told himself. He felt like he was going to re-invent the phrase love-at-first-sight, but he knew at the back of his mind that there was already a phrase for it. He didn't believe it. Being in IT and having experience in ethical social hacking, Abhiram already had done his research online about her. Well, it wasn't too hard because she had a blog, and an Instagram, and a Facebook account, and a Dribbble account and a Twitter account. Too easy.
 
