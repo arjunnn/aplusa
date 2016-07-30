@@ -130,6 +130,9 @@ menu {
 }
 
 @media (max-width: 680px) {
+  .bg-image {
+    background-image: url(../ezgif.com-optimize-portrait.gif);
+  }
    .save-the-date{
      font-size: 3.5em;
      padding: 0px;
