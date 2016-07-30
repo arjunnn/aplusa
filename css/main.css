@@ -102,6 +102,7 @@ header {
    header {
      left: 50%;
      background-color: yellow;
+     opacity: 0.6;
      /*padding: 0px;*/
 
      /*color: white;*/
