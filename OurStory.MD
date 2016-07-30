@@ -41,7 +41,9 @@ And there she was, in real. "It was real. The dream was over", He told himself. 
 
 Looking into her eyes today, he knows he found his partner. The one he could spend the rest of his life with.
 
+
 "Do you like him?" they asked. "Yes," she said to them.
+
 "Will you marry me?" he asked. "Yes," she said to him.
 
 ### Sunday, 10th April'16:
