@@ -18,18 +18,18 @@ He was calling from his downtown studio apartment in Denver, his Macbook Air on 
 A designer by profession, Ashwini dreaded a partner who would be dull and absorbed by monotony. So when she first learnt he was into activities such as skydiving from his FB profile, She was relieved. "He could be anything but boring", she told herself.
 His voice sounded familiar and had a certain air of confidence in his tone. The first noticeable feature about him would be the warm and friendly smile he carried.
 
-"And there she is. A dream too good to be true." He told himself. He felt like he was going to re-invent the phrase love-at-first-sight, but he knew at the back of his mind that there was already a word for it. He didn't believe it. Being in IT and having experience in ethical social hacking, Abhiram already had done his research online about her. Well, it wasn't too hard because she had a blog, and an Instagram, and a Facebook account, and a Dribbble account and a Twitter account. Too easy.
+"And there she is. A dream too good to be true." He told himself. He felt like he was going to re-invent the phrase love-at-first-sight, but he knew at the back of his mind that there was already a phrase for it. He didn't believe it. Being in IT and having experience in ethical social hacking, Abhiram already had done his research online about her. Well, it wasn't too hard because she had a blog, and an Instagram, and a Facebook account, and a Dribbble account and a Twitter account. Too easy.
 
 The Sun was shining on her cone face. She had big inquisitive eyes. They spoke to each other. He was doing something which he never thought would happen in his life. Second chances are rare.
 
 
 ### Wednesday, 6th April'16 :
 
-Abhiram had been talking to Ashwini every single day. He just Abhiram was on his flight to India, he was willing to travel all the miles just to meet her. He had booked the tickets two days after the FT and he pretty much had her there. They continued to get to know each other the entire month and things looked bright. The conversations, the efforts he put to woo her, she was impressed. She knew her answer.
+. Abhiram was on his flight to India, he was willing to travel all the miles just to meet her. 
 
 ### March 1st to 8th April'16
 
-Not a day passed without Abhiram talking to Ashwini. He insisted spending time with her everyday because he enjoyed being with her. Talking to her, seeing her speak about her passions, her life as a student, her work life, and her thoughts in general was the best way he could spend time. He knew he had found the love of his life, and he doesn't want to waste a moment more in not spending it with her.
+Not a day passed without Abhiram talking to her. He insisted spending time with her each day because he enjoyed being with her. Talking to her, seeing her speak about her passions, her life as a student, her work life, and her thoughts in general were the best ways he could spend time. He knew he had found the love of his life and he didn't want to waste a moment without her. They continued to get to know each other the entire month and things looked bright. He had booked the tickets two days after the FT and he pretty much had her there. The conversations, the efforts he put to woo her, Ashwini was impressed. She knew her answer.
 
 ###  Friday, 8th April'16 :
 
