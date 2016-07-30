@@ -5,14 +5,14 @@
 h1 {
   font-family: 'Pacifico';
   font-weight: 500;
-  font-size: 7em;
+  font-size: 10vw;
   text-align: center;
 }
 /* cover */
 .bg-image {
   background-image: url(../ezgif.com-optimize.gif);
   overflow-x:hidden;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #464646;
@@ -37,6 +37,7 @@ h1 {
   /*font-family: 'Playfair Display';*/
   font-weight: bold;
   /*overflow: hidden;*/
+  float: right;
 }
 .save-the-date {
   text-transform: capitalize;
@@ -54,6 +55,7 @@ h1 {
   -ms-transform: rotate(-10deg); /* IE 9 */
     -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
     transform: rotate(-10deg);
+    float: right;
 }
 .details {
 
@@ -66,6 +68,7 @@ h1 {
   font-weight: 700;
 
   font-weight: 500;
+  float: right;
 }
 menu {
   position: absolute;
@@ -87,9 +90,19 @@ menu {
 }
 .story-content {
   font-family: 'Crimson Text';
-  font-size: 1.5em;
-  /*width: 50vw;*/
+  font-size: 5vw;
   text-align: justify;
+}
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .story-content {
+      font-size: 2.5vw;
+    }
+
 }
 @media screen
   and (min-device-width: 1200px)
@@ -102,9 +115,7 @@ menu {
 }
 @media (max-width:1580px) {
   .hero-text {
-    /*left: 50%;*/
-    /*background-color: yellow;*/
-    /*padding: 0px;*/
+    font-size: 0.8em;
     left: 78%;
     /*color: white;*/
   }
@@ -112,24 +123,20 @@ menu {
     padding: 0px;
     /*padding-right: 0.5em;*/
   }
-  body {
-    /*background-image: url(../15.jpg);*/
-    /*background-position: center;*/
-  }
-  .hero-text {
-
+  .story {
+    width: 60vw;
   }
 
 }
 
 @media (max-width: 680px) {
    .save-the-date{
-     font-size: 3em;
+     font-size: 3.5em;
      padding: 0px;
      padding-right: 0.5em;
    }
    .details {
-     font-size: 1.9em;
+     font-size: 1.5em;
      padding-left: 0;
    }
    .hero-text {
@@ -137,15 +144,19 @@ menu {
      left: 70%;
      top: 30%;
    }
+   .story {
+     width: 90vw;
+   }
  }
  @media (max-width:480px) {
    .save-the-date {
+     top: 30vh;
      padding: 0px;
-     font-size: 1.5em;
+     font-size: 3em;
      padding: 0px;
    }
    .details {
-     font-size: 1.2em;
+     font-size: 1em;
      padding: 0px;
    }
    .hero-text {
