@@ -1,61 +1,55 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Ashwini & Abhiram</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="css/main.css" media="screen" title="no title" charset="utf-8">
-    <link href="https://fonts.googleapis.com/css?family=Delius|Playfair+Display|Quicksand|Sacramento" rel="stylesheet">
-  </head>
-  <body>
+<head>
+  <title>Ashwini & Abhiram</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="css/main.css" media="screen" title="no title" charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Delius|Playfair+Display|Quicksand|Sacramento" rel="stylesheet">
+</head>
+<body>
 
-  <!-- <p>Resize the browser window to see the effect.</p> -->
+<!-- <p>Resize the browser window to see the effect.</p> -->
 
-  <div class="bg-image"></div>
-  <div class="hero-text">
-      <h1 class="save-the-date">save<br> the date<br>-10<span class="bull">&bull;</span>08<span class="bull">&bull;</span>16-</h1>
-      <br>
-      <p class="details">
-        We are getting married!
-      </p>
-      <br>
+<div class="bg-image"></div>
+<div class="hero-text">
+  <h1 class="save-the-date">save<br> the date<br>-10<span class="bull">&bull;</span>08<span class="bull">&bull;</span>16-</h1>
+  <br>
+  <p class="details">
+    We are getting married!
+  </p>
+  <br>
 
-      <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15228.285483426222!2d78.52301335227052!3d17.40836220783679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99bef9cf1f27%3A0x70c46dd7c1ef377c!2sAPSRTC+Kala+Bhavan!5e0!3m2!1sen!2sin!4v1469564915362" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+  <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15228.285483426222!2d78.52301335227052!3d17.40836220783679!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99bef9cf1f27%3A0x70c46dd7c1ef377c!2sAPSRTC+Kala+Bhavan!5e0!3m2!1sen!2sin!4v1469564915362" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+</div>
+
+<div class="story">
+  <h1>Our Story</h1>
+  <div class="story-content" id="html">
+
   </div>
-
-  <div class="story">
-    <h1>Our Story</h1>
-    <div class="story-content" id="html">
-
-    </div>
-  </div>
+</div>
 
 
-  </body>
-  <script src="lib/showdown.min.js"></script>
-  <script src="lib/jquery.min.js"></script>
-  <script>
-    var body_location = 'OurStory.MD';
-
-    function getText(myUrl){
-      var result = null;
-      $.ajax( { url: myUrl,
-                type: 'get',
-                dataType: 'html',
-                async: false,
-                success: function(data) { result = data; }
-              }
-      );
-      FileReady = true;
-      return result;
-    }
-    var markdown_source = getText(body_location);
-
-    var converter = new showdown.Converter();
-    var html      = converter.makeHtml(markdown_source);
-    $("#html").html(html);
-  </script>
-
-
-
-
+</body>
+<script src="lib/showdown.min.js"></script>
+<script src="lib/jquery.min.js"></script>
+<script>
+  var body_location = 'OurStory.MD';
+  function getText(myUrl){
+    var result = null;
+    $.ajax( { url: myUrl,
+              type: 'get',
+              dataType: 'html',
+              async: false,
+              success: function(data) { result = data; }
+            }
+    );
+    FileReady = true;
+    return result;
+  }
+  var markdown_source = getText(body_location);
+  var converter = new showdown.Converter();
+  var html      = converter.makeHtml(markdown_source);
+  $("#html").html(html);
+</script>
 </html>
