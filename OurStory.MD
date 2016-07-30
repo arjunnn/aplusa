@@ -25,9 +25,9 @@ The Sun was shining on her cone face. She had big inquisitive eyes. They spoke t
 
 ### Wednesday, 6th April'16 :
 
-Abhiram was on his flight to India, he was willing to travel all the miles just to meet her. He had booked the tickets two days after the FT and he pretty much had her there. Not a day passed without him talking to her. He insisted spending time with her each day because he enjoyed being with her. Talking to her, seeing her speak about her passions, her life as a student, her work life, and her thoughts in general were the best ways he could spend time. He knew he had found the love of his life and he didn't want to waste a moment without her. 
+Abhiram was on his flight to India, he was willing to travel all the miles just to meet her. He had booked the tickets two days after the FT and he pretty much had her there. They continued to get to know each other the entire month and things looked bright. The conversations, the efforts he put to woo her, Ashwini was impressed. She knew her answer.
 
-They continued to get to know each other the entire month and things looked bright. The conversations, the efforts he put to woo her, Ashwini was impressed. She knew her answer.
+Not a day passed without him talking to her. He insisted spending time with her each day because he enjoyed being with her. Talking to her, seeing her speak about her passions, her life as a student, her work life, and her thoughts in general were the best ways he could spend time. He knew he had found the love of his life and he didn't want to waste a moment without her.
 
 ###  Friday, 8th April'16 :
 
