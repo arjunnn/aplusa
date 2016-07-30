@@ -91,7 +91,7 @@ menu {
 .story-content {
   font-family: 'Crimson Text';
   font-size: 1.5em;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 /* ----------- iPad 3 and 4 ----------- */
 /* Portrait and Landscape */
