@@ -18,7 +18,7 @@ His voice sounded familiar and had a certain air of confidence in his tone. The 
 
 He was calling from his downtown studio apartment in Denver, his Macbook Air on the kitchen counter he looked fresh, prepared and excited about the whole thing.
 
-"And there she is. A dream too good to be true." He told himself. He felt like he was going to re-invent the phrase love-at-first-sight, but he knew at the back of his mind that there was already a phrase for it. He didn't believe it. Being in IT and having experience in ethical social hacking, Abhiram already had done his research online about her. Well, it wasn't too hard because she had a blog, and an Instagram, and a Facebook account, and a Dribbble account and a Twitter account. Too easy.
+"There she is. A dream too good to be true." He told himself. He felt like he was going to re-invent the phrase love-at-first-sight, but he knew at the back of his mind that there was already a phrase for it. He didn't believe it. Being in IT and having experience in ethical social hacking, Abhiram already had done his research online about her. Well, it wasn't too hard because she had a blog, and an Instagram, and a Facebook account, and a Dribbble account and a Twitter account. Too easy.
 
 The Sun was shining on her cone face. She had big inquisitive eyes. They spoke to each other. He was doing something which he never thought would happen in his life. Second chances are rare.
 
